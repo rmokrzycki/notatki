@@ -1,4 +1,5 @@
-# <li><a href="http://iftia9.univ.gda.pl/~pg/">dr P.Gnaciński</a>
+# Rozwiząnia zadań z ćwiczeń
+<a href="http://iftia9.univ.gda.pl/~pg/">Wykłady</a>
 
 ### **I. PĘTLE**
 
